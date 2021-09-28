@@ -1,0 +1,19 @@
+{
+  "name": "bootcampsept2021",
+  "version": "1.0.0",
+  "description": "boootcamp forge 2021",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "forge"
+  ],
+  "author": "Roshan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "forge-apis": "^0.8.6",
+    "multer": "^1.4.3"
+  }
+}
